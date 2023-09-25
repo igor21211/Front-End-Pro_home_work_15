@@ -24,3 +24,7 @@ const createArray = () => {
 
 const result = createArray();
 alert(`Your array: ` + result);
+
+
+
+
